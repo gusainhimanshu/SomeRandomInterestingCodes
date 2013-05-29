@@ -7,7 +7,7 @@ int main()
     unsigned int n=0;
     printf("Enter the number: ");
     scanf("%d",&n);
-    if(0 == (n&=(n-1)))
+    if(0 == (n&=(n-1)))         //This basically checks for power of 2
     {
         printf("\n\nNumber is a power of two");
     }
