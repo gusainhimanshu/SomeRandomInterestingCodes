@@ -19,6 +19,7 @@ Program4.c : Code in C Asked in entrance of a Phd. Question is as follows:
 In this question arrays are used, you can use pointers too.
 
 Program5.c: Code in C Write a program to find the position of MSB
+
             For E.g position of MSB for integer 8 is 4
             1000
             similarly for 16 it is 5
