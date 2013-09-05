@@ -18,7 +18,7 @@ Program4.c : Code in C Asked in entrance of a Phd. Question is as follows:
             output should contain the corresponding output separated by newline.
 In this question arrays are used, you can use pointers too.
 
-Program5.c: Code in C Write a program to find the position of MSB
+Program5.c: Code in C Write a program to find the position of  without loop
 
             For E.g position of MSB for integer 8 is 4
             1000
